@@ -1,7 +1,7 @@
 url: https://pinballmap.com
-status: up
-code: 200
-responseTime: 418
-lastUpdated: 2025-06-30T14:17:30.043Z
+status: down
+code: 502
+responseTime: 19602
+lastUpdated: 2025-06-30T19:45:29.865Z
 startTime: 2025-06-17T01:05:18.875Z
 generator: Upptime <https://github.com/upptime/upptime>
