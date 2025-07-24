@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pinballmap.com.ico",
     "slug": "pinball-map",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "99.80%",
-    "time": 713,
-    "timeDay": 351,
+    "uptimeYear": "99.81%",
+    "time": 707,
+    "timeDay": 417,
     "timeWeek": 304,
-    "timeMonth": 846,
-    "timeYear": 713,
+    "timeMonth": 854,
+    "timeYear": 707,
     "dailyMinutesDown": {
       "2025-06-30": 103
     }
