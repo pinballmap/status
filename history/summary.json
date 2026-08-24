@@ -4,17 +4,17 @@
     "url": "https://pinballmap.com",
     "icon": "https://icons.duckduckgo.com/ip3/pinballmap.com.ico",
     "slug": "pinball-map",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.75%",
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "90.89%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.73%",
     "time": 377,
-    "timeDay": 1733,
-    "timeWeek": 584,
-    "timeMonth": 314,
-    "timeYear": 341,
+    "timeDay": 1181,
+    "timeWeek": 528,
+    "timeMonth": 307,
+    "timeYear": 340,
     "dailyMinutesDown": {
       "2025-09-15": 117,
       "2025-12-01": 25,
@@ -36,7 +36,8 @@
       "2026-06-29": 92,
       "2026-07-06": 76,
       "2026-07-12": 17,
-      "2026-08-15": 44
+      "2026-08-15": 44,
+      "2026-08-24": 131
     }
   }
 ]
